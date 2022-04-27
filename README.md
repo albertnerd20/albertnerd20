@@ -8,3 +8,5 @@
 albertnerd20/albertnerd20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Maybe I should start using my github account for something else than gitcoin donnation, what do you think ?
